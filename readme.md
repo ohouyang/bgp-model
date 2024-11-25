@@ -1,1 +1,2 @@
-# Quadrilateral mesh optimisation method based on swarm intelligence optimisation
+# Model for Quadrilateral mesh optimisation method based on swarm intelligence optimisation
+bgpModel.md2 is the original geological model file, bgpModel.geo is the data file for mesh after model processing, bgpModel.msh is the original file after model mesh, and bgpModel after optimization.msh is the optimized mesh model.
